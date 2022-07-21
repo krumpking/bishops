@@ -15618,6 +15618,13 @@ p.banner-text span {
   font-weight: bold;
 }
 
+.events-images {
+  width: 140px;
+  height: 190px;
+  border-radius: 20px 20px 20px 20px;
+  margin: 5px;
+}
+
 @media (max-width:1130px) {
   .w3l-banner h3 {
     font-size: 45px;
